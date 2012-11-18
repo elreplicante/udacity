@@ -1,0 +1,14 @@
+INSTUPeulerian
+/Users/repli/Documents/Programacion/udacity/cs215-algorithms/unit1/eulerian.py
+INFOS:&&2|1|2|0&&2|3|2|0&&2|4|2|0&&2|5|2|0&&2|6|2|0&&2|7|2|0&&2|8|2|0&&2|9|2|0&&2|10|2|0&&2|11|2|0
+pickrandom=4
+connected_nodes=9
+is_eulerian_tour=10
+check_nodes=5
+edge=1
+test=11
+create_tour=6
+eulerian=2
+check_edge=8
+get_degree=7
+poprandom=3

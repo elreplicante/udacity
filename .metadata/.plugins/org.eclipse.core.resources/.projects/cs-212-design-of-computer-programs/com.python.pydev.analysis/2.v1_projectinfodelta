@@ -1,0 +1,14 @@
+INSTUPmergeSort
+/Users/repli/Documents/Programacion/udacity/cs-212-design-of-computer-programs/src/mergeSort.py
+INFOS:&&1|1|2|0&&2|3|2|1&&2|4|2|1&&2|5|2|0&&2|6|2|0&&2|7|2|0&&2|8|2|0&&2|9|2|0&&2|10|2|0&&2|2|2|0&&3|11|2|0
+ltY=10
+ltX=9
+__init__=3
+closestPairDC=7
+numeros=11
+closesBF=6
+merge=8
+__str__=4
+Point=1
+dist=5
+mergeSort=2

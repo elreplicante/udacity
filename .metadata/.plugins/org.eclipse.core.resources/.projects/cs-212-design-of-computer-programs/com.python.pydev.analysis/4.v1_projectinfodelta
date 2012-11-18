@@ -1,0 +1,12 @@
+INSTUPpoker.poker
+/Users/repli/Documents/Programacion/udacity/cs-212-design-of-computer-programs/src/poker/poker.py
+INFOS:&&2|1|2|0&&2|3|2|0&&2|4|2|0&&2|5|2|0&&2|6|2|0&&2|7|2|0&&2|8|2|0&&2|9|2|0
+poker=1
+flush=5
+test=9
+hand_rank=8
+two_pair=7
+card_ranks=6
+straight=4
+kind=3
+poker.poker=2

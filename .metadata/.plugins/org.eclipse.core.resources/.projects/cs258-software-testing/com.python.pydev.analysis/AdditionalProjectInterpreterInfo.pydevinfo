@@ -1,0 +1,39 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/repli/Documents/Programacion/udacity/.metadata/.plugins/org.eclipse.core.resources/.projects/cs258-software-testing/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+homework1|0|/Users/repli/Documents/Programacion/udacity/cs258-software-testing/homework1.py
+unit1|0|/Users/repli/Documents/Programacion/udacity/cs258-software-testing/unit1.py
+unit2|0|/Users/repli/Documents/Programacion/udacity/cs258-software-testing/unit2.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+6=Queue.dequeue
+3=homework1
+2=unit1
+4=Queue
+1=unit2
+7=Queue.enqueue
+5=Queue.__init__
+-- END DICTIONARY
+-- START TREE 1
+4
+isp|2|isPrime2!10@isPrime!10@
+que|1|Queue!17@
+sta|1|stats!10@
+tes|6|test!26@test3!18@test!10@test2!18@test_prime!10@test1!18@
+-- END TREE
+-- START TREE 2
+11
+__i|1|__init__!4&18@
+che|1|checkRep!4&18@
+dat|1|data!5&19@
+deq|1|dequeue!4&18@
+emp|1|empty!4&18@
+enq|1|enqueue!4&18@
+ful|1|full!4&18@
+hea|2|head!6&19@head!5&19@
+max|1|max!5&19@
+siz|1|size!5&19@
+tai|2|tail!7&19@tail!5&19@
+-- END TREE

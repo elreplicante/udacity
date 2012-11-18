@@ -1,0 +1,32 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/repli/Documents/Programacion/udacity/.metadata/.plugins/org.eclipse.core.resources/.projects/cs215-algorithms/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+eulerian|0|/Users/repli/Documents/Programacion/udacity/cs215-algorithms/unit1/eulerian.py
+unit1|0|/Users/repli/Documents/Programacion/udacity/cs215-algorithms/unit1/unit1.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=eulerian
+2=unit1
+-- END DICTIONARY
+-- START TREE 1
+14
+che|2|check_edge!10@check_nodes!10@
+con|1|connected_nodes!10@
+cou|1|countdown!18@
+cre|1|create_tour!10@
+edg|1|edge!10@
+get|1|get_degree!10@
+is_|1|is_eulerian_tour!10@
+nai|1|naive!18@
+pic|1|pickrandom!10@
+pop|1|poprandom!10@
+rec|2|rec_russian!18@rec_naive!18@
+rus|1|russian!18@
+tes|1|test!10@
+tim|1|time!18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

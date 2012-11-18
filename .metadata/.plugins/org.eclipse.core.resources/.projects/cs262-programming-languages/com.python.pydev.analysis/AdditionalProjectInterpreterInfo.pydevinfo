@@ -1,0 +1,21 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/repli/Documents/Programacion/udacity/.metadata/.plugins/org.eclipse.core.resources/.projects/cs262-programming-languages/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+main|0|/Users/repli/Documents/Programacion/udacity/cs262-programming-languages/src/main.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=main
+-- END DICTIONARY
+-- START TREE 1
+5
+acc|1|accepting!11@
+edg|1|edges!11@
+fsm|1|fsmsim!10@
+myf|1|myfirst_yoursecond!10@
+reg|1|regexp!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
